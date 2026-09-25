@@ -24,7 +24,7 @@ function Navbar() {
         to="/resume"
         className="resume-button"
       >
-        Resume
+        RESUME
       </Link>
 
     </nav>
